@@ -1,0 +1,20 @@
+{
+  "name": "xhr-pe",
+  "version": "0.0.0",
+  "description": "XHR form practice with progressive enhancement.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "connect-flash": "^0.1.1",
+    "connect-multiparty": "^2.0.0",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "express3-handlebars": "^0.5.2"
+  }
+}
